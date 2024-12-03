@@ -15,7 +15,7 @@ I'm **Pragathi Ilango**, a passionate UI/UX Designer and Web Developer. 💻✨�
 - [LinkedIn](https://linkedin.com/in/pragisswag)
   
 
-🌟 *“Every pixel has a purpose.”* 🌟
+
 
 <!---
 Pragathi-Ilango-UIUX/Pragathi-Ilango-UIUX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
