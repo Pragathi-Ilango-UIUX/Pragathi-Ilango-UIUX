@@ -12,7 +12,8 @@ I'm **Pragathi Ilango**, a passionate UI/UX Designer and Web Developer. 💻✨�
 -  🖍️ Obsessed with learning new design hacks
 
 ## 🌐 Let's Connect:
-[LinkedIn](https://linkedin.com/in/pragisswag)
+- [LinkedIn](https://linkedin.com/in/pragisswag)
+  
 
 🌟 *“Every pixel has a purpose.”* 🌟
 
