@@ -3,8 +3,13 @@
 I'm **Pragathi Ilango**, a passionate UI/UX Designer and Web Developer. 💻✨🐾 
 
 ## 🛠️ Tools of My Trade:
-- **Design:** Figma, Canva, Adobe XD
-- **Code:** HTML, CSS, JavaScript, Wix Studio
+- **Design:** Figma, Auto Layout, Components, Variants, Design Systems, Wireframing, Prototyping, Canva, Adobe Creative Suite, Responsive Web Design, Accessibility (WCAG)
+- **Code:** HTML, CSS, JavaScript, Basic SEO, Cross-Browser Testing
+- **Frameworks & Libraries:** React (component-based UI), Bootstrap, jQuery, SASS
+- **Web Platforms:** Wix Studio, WordPress, Framer, Squarespace
+- **Tools & Workflow:** PHP, MySQL, REST APIs, CMS-driven architectures, Database-backed functionality
+- **Backend & Databases:** Git, GitHub, VS Code, Chrome DevTools, Documentation, Debugging, Agile workflows
+- **AI & Emerging Tools:** ChatGPT, GitHub Copilot, Claude, Gemini, Replit, Lovable, Figma Make
 
 ## ✨ My Current Adventures:
 - 🚀 Learning React and 3D design tools
@@ -12,7 +17,7 @@ I'm **Pragathi Ilango**, a passionate UI/UX Designer and Web Developer. 💻✨�
 -  🖍️ Obsessed with learning new design hacks
 
 ## 🌐 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/pragisswag)
+- [LinkedIn](https://www.linkedin.com/in/ilangopragathi/)
   
 
 
