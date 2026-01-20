@@ -18,6 +18,9 @@ I'm **Pragathi Ilango**, a passionate UI/UX Designer and Web Developer. 💻✨�
 
 ## 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/ilangopragathi/)
+- [Portfolio](https://pragathiilango.wixstudio.com/portfolio)
+- [Behance](https://www.behance.net/pragathiilango2)
+- [Dribbble](https://dribbble.com/pragathi-ilango)
   
 
 
