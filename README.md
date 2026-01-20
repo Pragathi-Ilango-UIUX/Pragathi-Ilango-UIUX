@@ -12,7 +12,7 @@ I'm **Pragathi Ilango**, a passionate UI/UX Designer and Web Developer. 💻✨�
 - **AI & Emerging Tools:** ChatGPT, GitHub Copilot, Claude, Gemini, Replit, Lovable, Figma Make
 
 ## ✨ My Current Adventures:
-- 🚀 Learning React and 3D design tools
+- 🚀 Learning 3D design tools
 - 💡 Exploring sustainable design with AI
 -  🖍️ Obsessed with learning new design hacks
 
